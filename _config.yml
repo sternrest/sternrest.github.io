@@ -1,9 +1,8 @@
+remote_theme: "jeffreytse/jekyll-theme-yat"
 title: Hoshuuzora
-email: azzamimutahharialfarrah@gmail.com
 author: Azzami Mutahhari
 description: >-
   Tempat pelarian dikala tomi gabut gak ada kerjaan
-copyright: "Unpublished Work (cleft) 2022-{currentYear} {author}"
 yat: 
   date_format: "%b %d, %Y"
 defaults:
