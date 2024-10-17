@@ -1,4 +1,4 @@
-remote_theme: "jeffreytse/jekyll-theme-yat"
+theme: "jekyll-theme-yat"
 title: Hoshuuzora
 author: Azzami Mutahhari
 description: >-
